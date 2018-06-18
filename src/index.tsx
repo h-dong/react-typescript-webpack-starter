@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { render } from 'react-dom';
-import App from './App2';
+import App from './App';
 
 render(
     <App message="World" />,

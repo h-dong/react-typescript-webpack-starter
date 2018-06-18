@@ -1,4 +1,4 @@
-# React Typescript Webpack Starter
+# React Typescript Webpack Starter &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hdong92/react-typescript-webpack-starter/blob/master/LICENSE) [![Travis Build Status](https://img.shields.io/travis/hdong92/react-typescript-webpack-starter.svg)]() ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 A widget which can be deployed to any patners sites to allow integration with Avios Collect and Spent functionality on their checkout pages.
 

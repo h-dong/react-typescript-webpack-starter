@@ -22,8 +22,5 @@ module.exports = {
     ],
     testMatch: [
         "<rootDir>/src/**/*.test.tsx"
-    ],
-    modulePaths: [
-        'src'
     ]
 };
